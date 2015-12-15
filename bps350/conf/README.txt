@@ -1,0 +1,1 @@
+Copy your custom configurations file here. These files will be copied to BPS_HOME/repository/conf/ directory. 

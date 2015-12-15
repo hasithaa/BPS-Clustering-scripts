@@ -1,0 +1,1 @@
+Copy your OSGI bundles (.jar) here. These files will be copied to BPS_HOME/repository/components/dropings directory. 

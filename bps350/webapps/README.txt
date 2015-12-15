@@ -1,0 +1,1 @@
+Copy your Web apps (*.war) here. These files will be copied to BPS_HOME/repository/deployment/server/webapps directory. 

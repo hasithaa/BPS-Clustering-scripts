@@ -1,0 +1,1 @@
+Copy your Patches folders (patchXXXX) here. These patchXXXX folders will be copied to BPS_HOME/repository/components/patches/ directory. 

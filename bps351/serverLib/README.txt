@@ -1,0 +1,1 @@
+Copy your Server level libraries (.jar) here.  These files will be copied to BPS_HOME/lib directory. 

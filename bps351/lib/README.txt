@@ -1,0 +1,1 @@
+Copy your Java libraries (.jar) here. These files will be copied to BPS_HOME/repository/components/lib directory. 
